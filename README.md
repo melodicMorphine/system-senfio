@@ -8,4 +8,3 @@ Todo o desenvolvimento foi feito em ReactJS.
 ### `utilizações`
 O usuário pode se cadastrar e/ou logar, acessando uma página inicial estática. 
 Caso logado, o usuário pode também se desconectar, retornando à página de login.
-
