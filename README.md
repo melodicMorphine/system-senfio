@@ -1,7 +1,7 @@
 # Sistema de Login: Proposta
 Construir um sistema de Login com sua devida validação *[utilizando ReactJS e Django]*.
 
-## `O que foi feito`
+## `o que foi feito`
 Um sistema de Login majoritariamente Front-end com validação e armazenagem de dados via local storage, com uso de Context.
 Todo o desenvolvimento foi feito em ReactJS.
 
